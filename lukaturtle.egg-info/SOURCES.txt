@@ -4,9 +4,4 @@ dist/__init__.py
 lukaturtle.egg-info/PKG-INFO
 lukaturtle.egg-info/SOURCES.txt
 lukaturtle.egg-info/dependency_links.txt
-lukaturtle.egg-info/tmpdpxl_8he
-lukaturtle.egg-info/tmpem7np8lh
-lukaturtle.egg-info/tmpmxs2cebr
-lukaturtle.egg-info/tmpqq389wjo
-lukaturtle.egg-info/tmpzbguj0hg
 lukaturtle.egg-info/top_level.txt
