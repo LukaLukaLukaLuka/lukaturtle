@@ -2,7 +2,7 @@ from colorama import(Fore, Style)
 import turtle
 t=turtle.Turtle()
 turtle.title("Luka Turtle Python Graphics")
-class object:
+class lukaturtle:
     def __init__(self):
         pass
     def triangle(self, a, b, c):

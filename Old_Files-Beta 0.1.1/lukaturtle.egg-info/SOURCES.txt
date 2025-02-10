@@ -1,7 +1,0 @@
-README.md
-setup.py
-dist/__init__.py
-lukaturtle.egg-info/PKG-INFO
-lukaturtle.egg-info/SOURCES.txt
-lukaturtle.egg-info/dependency_links.txt
-lukaturtle.egg-info/top_level.txt
