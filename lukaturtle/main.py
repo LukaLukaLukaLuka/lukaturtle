@@ -1,4 +1,3 @@
-from colorama import(Fore, Style)
 import turtle
 t=turtle.Turtle()
 turtle.title("Luka Turtle Python Graphics")
@@ -27,6 +26,32 @@ class lukaturtle:
                 t.lt(360 // a)
             turtle.done()
         else:
-            print(Fore.RED+Style.BRIGHT+"The number of sides must be greater then 2.")
+            print("The number of sides must be greater then 2.")
     def title(self, usertitle):
         turtle.title(usertitle)
+    def test(self):
+        pass
+    def stickman(self, a):
+        b = a * 4
+        t.circle(a)
+        t.lt(270)
+        t.fd(b)
+        t.lt(180)
+        t.fd(b//2)
+        t.rt(45)
+        t.fd(a)
+        t.lt(180)
+        t.fd(a)
+        t.rt(90)
+        t.fd(a)
+        t.lt(180)
+        t.fd(a)
+        t.rt(45)
+        t.fd(a*2)
+        t.lt(45)
+        t.fd(a)
+        t.lt(180)
+        t.fd(a)
+        t.lt(90)
+        t.fd(a)
+        turtle.done()
