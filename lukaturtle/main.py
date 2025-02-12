@@ -78,4 +78,4 @@ class lukaturtle:
     def pencolor(self, a):
         t.pencolor(a)
     def pensize(self, a):
-        t.pensize(a)
+        t.pensize(a) #
