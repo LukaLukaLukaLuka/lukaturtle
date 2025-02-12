@@ -55,3 +55,27 @@ class lukaturtle:
         t.lt(90)
         t.fd(a)
         turtle.done()
+    def fd(self, a):
+        t.fd(a)
+        turtle.done()
+    def bk(self, a):
+        t.bk(a)
+        turtle.done()
+    def lt(self, a):
+        t.lt(a)
+        turtle.done()
+    def rt(self, a):
+        t.rt(a)
+        turtle.done()
+    def st(self):
+        t.st()
+    def ht(self):
+        t.ht()
+    def pu(self):
+        t.pu()
+    def pd(self):
+        t.pd()
+    def pencolor(self, a):
+        t.pencolor(a)
+    def pensize(self, a):
+        t.pensize(a)
