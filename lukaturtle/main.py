@@ -78,4 +78,18 @@ class lukaturtle:
     def pencolor(self, a):
         t.pencolor(a)
     def pensize(self, a):
-        t.pensize(a) #
+        t.pensize(a)
+    def begin_fill(self):
+        t.begin_fill()
+    def fillcolor(self, a):
+        t.fillcolor(a)
+    def end_fill(self):
+        t.end_fill()
+    def heart(self, a):
+        t.lt(140)
+        t.fd(a)
+        t.circle(-90, a + 20)
+        t.lt(120)
+        t.circle(-90, a + 20)
+        t.fd(a)
+        turtle.done()
