@@ -2,7 +2,7 @@
 
 LukaTurtle is my first python package i have coded.
 
-It is an addition to the existing "turtle" package for python
+It is an addition to the existing `turtle` package for python
 
 It supports python versions **3.9 and above.**
 
