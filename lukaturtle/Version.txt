@@ -1,2 +1,2 @@
-LukaTurtle version 0.4.5-X
+LukaTurtle version 1.0.0
 Copyright Luka Lajnvaš©
