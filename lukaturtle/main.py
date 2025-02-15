@@ -88,8 +88,7 @@ class lukaturtle:
     def heart(self, a):
         t.lt(140)
         t.fd(a)
-        t.circle(-90, a + 20)
+        t.circle(-a * 0.4, 200)
         t.lt(120)
-        t.circle(-90, a + 20)
+        t.circle(-a * 0.4, 200)
         t.fd(a)
-        turtle.done()
