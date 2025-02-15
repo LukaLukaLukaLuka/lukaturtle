@@ -1,4 +1,4 @@
-import turtle
+mport turtle
 t=turtle.Turtle()
 turtle.title("Luka Turtle Python Graphics")
 class lukaturtle:
@@ -23,10 +23,11 @@ class lukaturtle:
         if a >= 3:
             for _ in range(a):
                 t.fd(b)
-                t.lt(360 // a)
+                t.lt(360 / a)
             turtle.done()
         else:
             print("The number of sides must be greater then 2.")
+        turtle.done()
     def title(self, usertitle):
         turtle.title(usertitle)
     def test(self):
@@ -92,3 +93,4 @@ class lukaturtle:
         t.lt(120)
         t.circle(-a * 0.4, 200)
         t.fd(a)
+        turtle.done()
