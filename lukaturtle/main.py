@@ -1,4 +1,4 @@
-mport turtle
+import turtle
 t=turtle.Turtle()
 turtle.title("Luka Turtle Python Graphics")
 class lukaturtle:
