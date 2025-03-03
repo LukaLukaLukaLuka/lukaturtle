@@ -94,3 +94,4 @@ class lukaturtle:
         t.circle(-a * 0.4, 200)
         t.fd(a)
         turtle.done()
+    
